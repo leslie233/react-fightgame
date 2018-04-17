@@ -1,5 +1,6 @@
 一个基于REACT写的格斗小游戏
 
+文档 https://juejin.im/post/5ad569b36fb9a028e33bf084
 
 
 按键
