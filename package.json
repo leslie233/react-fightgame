@@ -1,0 +1,13 @@
+{
+  "name": "game",
+  "version": "0.0.1",
+  "description": "game",
+  "main": "app.js",
+  "dependencies": {
+    "@bone/web": "^0.1.0",
+    "@bone/bone-web-ui": "^1.0.0",
+    "@bone/bone-web-ui-dpl": "^1.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
