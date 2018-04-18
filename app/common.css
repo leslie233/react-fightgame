@@ -15,7 +15,7 @@ body{
 .move{
 	position: absolute;
 	bottom:130px;
-	margin: 0;
+	left:36px;
 }
 .boom{
     position: absolute;
@@ -24,9 +24,29 @@ body{
 	margin: 0;
 }
 
-.player{
+.player2{
 	position: absolute;
 	bottom:130px;
-	right:0;
+	left:404px;
 	margin: 0;
+	-moz-transform: scaleX(-1);
+ 	-webkit-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+ 	transform: scaleX(-1);
+ 	filter:FlipH;
+ 	background:transparent;
+}
+
+.bar{
+	position: absolute;
+	top:20px;	
+	left:230px;
+	clip: rect(0 322px 50px 0);
+}
+
+.ko{
+	position: absolute;
+	top:60px;	
+	left:200px;
+	display: none;
 }
